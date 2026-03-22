@@ -1,11 +1,11 @@
 risk_id,risk_name,risk_category,probability,financial_impact,expected_loss,owner,status
-R001,Enrollment decline,Strategic,0.3,2000000,600000,Admissions,Open
-R002,Grant revenue shortfall,Financial,0.25,1500000,375000,Advancement,Open
-R003,Major donor attrition,Financial,0.2,1800000,360000,Development,Open
-R004,Compliance reporting failure,Compliance,0.1,2500000,250000,Compliance,Mitigating
-R005,Cyber incident,Operational,0.12,3000000,360000,IT,Mitigating
-R006,Vendor disruption,Operational,0.18,900000,162000,Procurement,Open
-R007,Facility closure,BCM,0.08,2200000,176000,Operations,Mitigating
-R008,Staffing shortage,Operational,0.22,700000,154000,HR,Open
-R009,Aid processing delays,Compliance,0.14,800000,112000,Student Finance,Open
-R010,Reputation event,Strategic,0.09,2800000,252000,Executive,Open
+R001,Enrollment decline,Strategic,0.18,850000,153000,Admissions,Open
+R002,Grant revenue shortfall,Financial,0.22,600000,132000,Advancement,Open
+R003,Major donor attrition,Financial,0.15,900000,135000,Development,Open
+R004,Compliance reporting failure,Compliance,0.08,450000,36000,Compliance,Mitigating
+R005,Cyber incident,Operational,0.1,700000,70000,IT,Mitigating
+R006,Vendor disruption,Operational,0.14,300000,42000,Procurement,Open
+R007,Facility closure,BCM,0.06,500000,30000,Operations,Mitigating
+R008,Staffing shortage,Operational,0.16,280000,44800,HR,Open
+R009,Aid processing delays,Compliance,0.09,220000,19800,Student Finance,Open
+R010,Reputation event,Strategic,0.07,650000,45500,Executive,Open
